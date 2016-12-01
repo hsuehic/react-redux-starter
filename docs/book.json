@@ -1,0 +1,21 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [
+        "jsfiddle"
+    ],
+    "pluginsConfig": {
+        "jsfiddle": {
+            "type": "frame",
+            "bodyColor": "ccc",
+            "theme": "dark",
+            "tabs": [
+                "result",
+                "js",
+                "css",
+                "html"
+            ],
+            "height": 500,
+            "width": 500
+        }
+    }
+}
