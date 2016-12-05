@@ -2,11 +2,11 @@
 
 ## 安装
 1. nodejs
-1. gitbook
+2. gitbook
 ```blash
 npm i -g gitbook
 ```
-1. 安装项目依赖
+3. 安装项目依赖
 在项目根目录下执行
 ```blash
 npm i
@@ -46,12 +46,12 @@ npm i
 npm run start
 ```
 
-1. API文档
+2. API文档
 ```blash
 gitbook serve
 ```
 
-1. 生成发布 
+3. 生成发布 
 ```blash
 npm run build
 ```
