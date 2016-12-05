@@ -1,5 +1,8 @@
 # React Redux application starter
 
+## 开发前准备
+[文档]()
+
 ## 目录结构说明
 
 ```bash
