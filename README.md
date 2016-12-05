@@ -1,7 +1,19 @@
 # React Redux application starter
 
+## 安装
+1. nodejs
+1. gitbook
+```blash
+npm i -g gitbook
+```
+1. 安装项目依赖
+在项目根目录下执行
+```blash
+npm i
+```
+
 ## 开发前准备
-[文档](https://hsuehic.gitbooks.io/react-rudex-starter/content/)
+开发前请阅读[文档](https://hsuehic.gitbooks.io/react-rudex-starter/content/)。
 
 ## 目录结构说明
 
@@ -24,4 +36,22 @@
     ├── components/   # Font files
     └── reducers/     # Handlebars HTML files, one per page on the site.
 
+```
+
+## 开发调试
+
+1. 开发
+在项目根目录下执行
+```blash
+npm run start
+```
+
+1. API文档
+```blash
+gitbook serve
+```
+
+1. 生成发布 
+```blash
+npm run build
 ```
