@@ -1,12 +1,12 @@
 # React Redux application starter
 
 ## 安装
-1. nodejs
-2. gitbook
+* nodejs
+* gitbook
 ```blash
 npm i -g gitbook
 ```
-3. 安装项目依赖
+* 安装项目依赖
 在项目根目录下执行
 ```blash
 npm i
@@ -40,18 +40,18 @@ npm i
 
 ## 开发调试
 
-1. 开发
-在项目根目录下执行
-```blash
-npm run start
-```
+### 开发
+ 在项目根目录下执行
+  ```blash
+  npm run start
+  ```
 
-2. API文档
-```blash
-gitbook serve
-```
+### API文档
+  ```blash
+  gitbook serve
+  ```
 
-3. 生成发布 
+### 生成发布 
 ```blash
 npm run build
 ```
