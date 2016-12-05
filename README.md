@@ -1,7 +1,7 @@
 # React Redux application starter
 
 ## 开发前准备
-[文档]()
+[文档](https://hsuehic.gitbooks.io/react-rudex-starter/content/)
 
 ## 目录结构说明
 
